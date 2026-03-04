@@ -16,10 +16,10 @@ Secondary Objectives :-
 3.	To document the entire process, including limitations and potential future improvements.
 
 Components used:
-Arduino Uno 
-MQ-2 Smoke/Gas Sensor 
-Flame Sensor (IR Receiver)                                  
-16x2 LCD Display 
-Buzzer 
-Breadboard & Jumper Wires 
-Power Supply 
+Arduino Uno, 
+MQ-2 Smoke/Gas Sensor, 
+Flame Sensor (IR Receiver),                                  
+16x2 LCD Display, 
+Buzzer, 
+Breadboard & Jumper Wires, 
+Power Supply. 
